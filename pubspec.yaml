@@ -40,14 +40,14 @@ dependencies:
   flutter_svg: ^1.0.3
   vector_math: ^2.1.2
 
-  another_ble_manager:
-    path: ../another_ble_manager
+  another_ble_manager: ^0.0.1
+  #  path: ../another_ble_manager
 
-  another_ble_manager_plus:
-    path: ../another_ble_manager_plus
+  another_ble_manager_plus: ^0.0.1
+  #  path: ../another_ble_manager_plus
 
-  another_go_dice:
-    path: ../another_go_dice
+  another_go_dice: ^0.0.1
+  #  path: ../another_go_dice
 
 dev_dependencies:
   flutter_test:
